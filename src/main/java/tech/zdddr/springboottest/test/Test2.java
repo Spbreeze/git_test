@@ -1,6 +1,6 @@
 package tech.zdddr.springboottest.test;
 
 public class Test2 {
-String name = "dddd";
+String name = "尼米诶";
     int a = 1;
 }
