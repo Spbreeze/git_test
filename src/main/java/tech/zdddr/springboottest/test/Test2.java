@@ -1,8 +1,5 @@
 package tech.zdddr.springboottest.test;
 
 public class Test2 {
-String name = "尼米诶";
-String ddd = "wocao ";
-    String sssss = "vvvvvvvvvvvvvvvvvvvvv ";
-    int a = 1;
+    String bbb = "速度覅会死的凤凰寺大黄蜂";
 }
