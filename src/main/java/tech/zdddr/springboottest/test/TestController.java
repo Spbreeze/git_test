@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @GetMapping("/wocao")
     public String getName(){
+        String sss = "ddddddddddddd";
         return "nimei";
     }
 }
