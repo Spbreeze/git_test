@@ -7,8 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @GetMapping("/wocao")
     public String getName(){
-        int b = 1;
-        String sss = "ddddddddddddd";
+        System.out.println("你妹");
         return "nimei";
     }
 }
