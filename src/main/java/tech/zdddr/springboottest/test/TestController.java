@@ -11,13 +11,13 @@ import java.util.Map;
 public class TestController {
     @GetMapping("/wocao")
     public String getName(){
-        return "ssssss";
+        return "此v才才才vvvvvvffffffffffffffffffffffvvv ";
     }
 
     @RequestMapping("/getNiu")
     public Map getData(){
         Map<String,Object> result = new HashMap<>();
-        result.put("ni","you");
+        result.put("ni","ssssssssssssssssssssssssssssss");
         return result;
     }
 }
