@@ -8,7 +8,6 @@ public class TestController {
     @GetMapping("/wocao")
     public String getName(){
         System.out.println("你妹");
-        System.out.println("我校");
         return "nimei";
     }
 }
