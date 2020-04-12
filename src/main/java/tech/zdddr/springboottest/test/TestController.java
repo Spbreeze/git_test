@@ -11,7 +11,7 @@ import java.util.Map;
 public class TestController {
     @GetMapping("/wocao")
     public String getName(){
-        return "此v才才才vvvvvvffffffffffffffffffffffvvv ";
+        return "此v才才才vvvvvvffffffffff哒哒哒哒哒哒多多多多ffffffffffffvvv ";
     }
 
     @RequestMapping("/getNiu")
