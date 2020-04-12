@@ -11,7 +11,7 @@ import java.util.Map;
 public class TestController {
     @GetMapping("/wocao")
     public String getName(){
-        return "nimei";
+        return "ssssss";
     }
 
     @RequestMapping("/getNiu")
